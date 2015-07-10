@@ -1,2 +1,2 @@
 # ordbank
-Samling av ord fra fullformsordbokene på bokmål og nynorsk, formatert på ulike vis
+Samling av JSON-data generert fra [fullformsordbøkene](http://www.edd.uio.no/prosjekt/ordbanken/) på bokmål og nynorsk.

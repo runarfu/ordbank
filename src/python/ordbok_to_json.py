@@ -12,18 +12,19 @@ def read_lines_from_gzipped_file(filename):
         return [line.strip() for line in file.readlines()][INPUT_GARBAGE_OFFSET:]
 
 def read_entries(lines):
-    entries = {}
+    entries = []
 
     for line in lines:
         id, gf, ff, mb, pk, np = line.split('\t')
 
-        entries[id] = ( {'grunnform'               : gf,
+        entries.append( {'id'                      : id,
+                         'grunnform'               : gf,
                          'fullform'                : ff,
                          'morfologisk_beskrivelse' : mb,
                          'paradigmekode'           : pk,
                          'nummer_i_paradigme'      : np} )
 
-    print('Read {} entries'.format(len(entries.keys())))
+    print('Read {} entries'.format(len(entries)))
 
     return entries
 
@@ -40,5 +41,5 @@ if __name__ == '__main__':
     args = parser.parse_args()
     lines = read_lines_from_gzipped_file(args.input_filename)
     entries = read_entries(lines)
-    write_entries_to_json_file(entries, args.output_filename)
+    write_entries_to_json_file({'words' : entries}, args.output_filename)
 

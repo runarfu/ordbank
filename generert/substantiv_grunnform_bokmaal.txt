@@ -1,5 +1,3 @@
-$
-%
 -akter
 -al
 -aner
@@ -148,10 +146,8 @@ $
 -øring
 -øse
 -øyring
-1.
 14C-datering
 17.
-A
 A-aksje
 A-avdeling
 A-avis
@@ -190,10 +186,8 @@ A-test
 A-vitamin
 A-vitaminmangel
 A-våpen
-A.
 A/L
 A/S
-A4
 A4-format
 A4-side
 A5-format
@@ -207,7 +201,6 @@ ABC-våpen
 ABS-brems
 ADB
 ADB-operatør
-AF
 AF-forbund
 AF-formann
 AF-gruppe
@@ -246,8 +239,6 @@ AKP-leder
 AKP-ml
 AKP-politiker
 AKPer
-AL
-AM
 AMO
 AMO-kurs
 ANC
@@ -264,7 +255,6 @@ AP-ledelse
 AP-regjering
 AP-representant
 AP-velger
-AS
 ASA
 ASEA
 AUF
@@ -307,7 +297,6 @@ Abrahamson
 Abrahamssen
 Abrahamsson
 Abu
-Ac
 Acapulco
 Accra
 Aconcagua
@@ -342,7 +331,6 @@ Aftenposten-journalist
 Aftenposten-korrespondent
 Aftenposten-redaktør
 Aftenposten-reportasje
-Ag
 Aga
 Agdenes
 Agder
@@ -369,7 +357,6 @@ Akselssen
 Akselsson
 Aksnes
 Akureyri
-Al
 Alabama
 Alaska
 Albania
@@ -416,7 +403,6 @@ Alverstraumen
 Alversund
 Alvestad
 Alvhild
-Am
 Amanda
 Amanda-statuett
 Amandaprisen
@@ -484,7 +470,6 @@ Antwerpen
 Ap.
 Appenninene
 Aquitaine
-Ar
 Arabia
 Arbeiderblad-journalist
 Arbeiderbladet
@@ -525,7 +510,6 @@ Arsenal-spiller
 Arthur
 Arvid
 Arvika
-As
 Asbjørn
 Asbjørnsen
 Asbjørnson
@@ -559,7 +543,6 @@ Astri
 Astrid
 Astrup
 Aswan
-At
 Ata
 Atacamaørkenen
 Aten
@@ -576,7 +559,6 @@ Atlasfjella
 Atlasfjellene
 Atle
 Atna
-Au
 Aubert
 Auckland
 Aud
@@ -613,7 +595,6 @@ Averøy
 Avesta
 Avignon
 Aviv
-B
 B-aksje
 B-dur
 B-film
@@ -632,16 +613,13 @@ B-pulje
 B-språk
 B-vitamin
 B-vitaminmangel
-B.
 BBC
 BBC-korrespondent
 BCG-vaksine
-BH
 BNI
 BNP
 BRD
 BUL
-Ba
 Babel
 Babylon
 Babylonia
@@ -703,7 +681,6 @@ Bator
 Bay
 Bayern
 Bayreuth
-Be
 Beach
 Beatles
 Beatles-fan
@@ -808,7 +785,6 @@ Bertil
 Besseggen
 Bessåker
 Bhutan
-Bi
 Bidjovagge
 Big
 Bilbao
@@ -859,7 +835,6 @@ Bjørnevatn
 Bjørnson
 Bjørnstad
 Bjørnøya
-Bk
 Blackpool
 Blaker
 Blakka
@@ -921,8 +896,6 @@ Bottenviken
 Boulogne
 Bouvetøya
 Boveri
-Bq
-Br
 Braaten
 Braathen
 Brahmaputra
@@ -1034,7 +1007,6 @@ Bærums-ordfører
 Bærums-politi
 Bærumsbanen
 Bæskades
-Bø
 Bøe
 Bøhn
 Bømlo
@@ -1047,7 +1019,6 @@ Børreson
 Børressen
 Børresson
 Børsa
-C
 C-dur
 C-durskala
 C-gruppe
@@ -1057,9 +1028,7 @@ C-post
 C-språk
 C-vitamin
 C-vitaminmangel
-C.
 C14-datering
-CD
 CD-ROM
 CD-anlegg
 CD-plate
@@ -1070,9 +1039,6 @@ CIA-agent
 CIA-sjef
 COCOM
 COMECON
-CP
-CV
-Ca
 Cabernet
 Cabo
 Cadiz
@@ -1104,14 +1070,11 @@ Castro
 Catalonia
 Cayenne
 Caymanøyene
-Cd
-Ce
 Ceausescu
 Celebes
 Cess
 Cess-dur
 Ceylon
-Cf
 Charleston
 Cherbourg
 Chevrolet
@@ -1138,19 +1101,15 @@ Christoffersen
 Christofferson
 Christofferssen
 Christoffersson
-Ci
 Ciss
 Ciss-dur
 Citroën
 City
-Cl
 Claus
 Clausen
 Clauson
 Claussen
 Clausson
-Cm
-Co
 Co.
 Cobol
 Colombia
@@ -1170,34 +1129,25 @@ Corneliusson
 Corsica
 Costa
 Coventry
-Cr
 Creditbank
-Cs
-Cu
 Cuba
 Cuxhaven
 Cæsar
-D
 D-dag
 D-dur
 D-mark
 D-vitamin
 D-vitaminmangel
-D.
 DBS
 DDR
 DDT
-DH
 DH-kandidat
-DK
 DNA
 DNA-analyse
 DNA-fingeravtrykk
 DNA-molekyl
 DNA-test
 DNL
-DS
-DV
 DVD
 DVD-speller
 DVD-spiller
@@ -1307,20 +1257,17 @@ Duluth
 Dunkerque
 Durban
 Durham
-Dy
 Dybvik
 Dyno
 Dyrøy
 Dødehavet
 Dønna
 Düsseldorf
-E
 E-cup
 E-cupfinale
 E-cupkamp
 E-dur
 E-vitamin
-E.
 ECU-tilknytning
 EDB
 EDB-anlegg
@@ -1336,7 +1283,6 @@ EDB-sjef
 EDB-terminal
 EDB-utstyr
 EEC
-EF
 EF-ambassadør
 EF-avstemning
 EF-avtale
@@ -1414,7 +1360,6 @@ EFTA-talsmann
 EFTA-toppmøte
 EKG
 EKG-apparat
-EM
 EM-arena
 EM-arrangør
 EM-bronse
@@ -1436,10 +1381,7 @@ EMS-samarbeid
 ENØK
 ENØK-lån
 ENØK-tiltak
-EP
 EP-plate
-ES
-EU
 EU-land
 EU-medlemskap
 East
@@ -1496,7 +1438,6 @@ Einarsson
 Eindhoven
 Eirik
 Eivind
-Ek
 Ekeberg
 Ekebergsletta
 Ekofisk
@@ -1583,7 +1524,6 @@ Erlend
 Erling
 Erstad
 Ervik
-Es
 Esau
 Esbjerg
 Eskilstuna
@@ -1604,7 +1544,6 @@ Etiopia
 Etna
 Etne
 Etnedal
-Eu
 Eufrat
 Eugene
 Europa
@@ -1643,9 +1582,7 @@ EØS-debatt
 EØS-domstol
 EØS-forhandling
 EØS-område
-F
 F-dur
-F.
 FA-cup
 FAD
 FAFO
@@ -1657,12 +1594,10 @@ FIS
 FIS-president
 FIS-renn
 FLN
-FM
 FM-band
 FM-bånd
 FM-kringkasting
 FM-sender
-FN
 FN-ambassadør
 FN-apparat
 FN-avdeling
@@ -1713,7 +1648,6 @@ Farsund
 Faso
 Fattig-Oslo
 Fauske
-Fe
 Feda
 Fedje
 Felixstowe
@@ -1784,7 +1718,6 @@ Flow
 Flå
 Flåm
 Fløtre
-Fm
 Fokus
 Folgefonna
 Folkestad
@@ -1809,7 +1742,6 @@ Fosse
 Fossheim
 Fossum
 Fotball-Tyskland
-Fr
 FrP
 Framnæs
 Frankenstein-myte
@@ -1877,15 +1809,12 @@ Færder
 Færøyene
 Førde
 Førland
-G
 G-dur
-G.
 GATT
 GATT-avtale
 GATT-hovedkvarter
 GATT-land
 GATT-regel
-GB
 GHz
 GMT
 GP-finale
@@ -1896,9 +1825,6 @@ GPS
 GPS-mottager
 GPS-mottaker
 GPS-sender
-GT
-GW
-Ga
 Gaarder
 Gabon
 Gabriel
@@ -1936,7 +1862,6 @@ Gausta
 Gaustad
 Gaustatoppen
 Gaza
-Gd
 Gdansk
 Gdynia
 Geilo
@@ -2129,7 +2054,6 @@ Guttormssen
 Guttormsson
 Guyana
 Gvarv
-Gy
 Gyland
 Göbbels
 Göran
@@ -2140,21 +2064,17 @@ Gøran
 Gøril
 Gørild
 Gøsta
-H
 H-bjelke
 H-dur
 H-melk
 H-melkkartong
 H-mjølk
 H-mjølkkartong
-H.
 H.K.H.
 H.M.
-HB
 HB-apparat
 HB-jeger
 HB-produsent
-HF
 HIV
 HIV-epidemi
 HIV-frykt
@@ -2166,7 +2086,6 @@ HIV-testing
 HIV-trussel
 HIV-virus
 HMS
-HV
 HV-distrikt
 HV-lager
 HV-leder
@@ -2296,7 +2215,6 @@ Haus
 Havanna
 Havøysund
 Hawaii
-He
 Heathrow
 Hebridene
 Hedda
@@ -2389,8 +2307,6 @@ Herøya
 Hessen
 Hestnes
 Hetland
-Hf
-Hg
 Hi-Fi
 Hilde
 Hillestad
@@ -2417,7 +2333,6 @@ Hjeltefjorden
 Hjerkinn
 Hjørdis
 Hjørungavåg
-Ho
 Hobøl
 Hodne
 Hoel
@@ -2512,8 +2427,6 @@ Hydro-sjef
 Hygea
 Hylkje
 Hyllestad
-Hz
-Hå
 Hågen
 Hågensen
 Hågenson
@@ -2547,31 +2460,24 @@ Høvåg
 Høyanger
 Høylandet
 Høyre
-I
-I.
 IBM
 IBM-maskin
 IBM-prosjekt
-ID
 ID-kort
 ID-merke
 ID-nummer
 ID-papir
 IEA
 IKEA
-IL
 ILO
 ILO-konferanse
 ILO-konvensjon
 IOC
 IOGT
-IQ
 IQ-test
 IRA
 IRA-terrorist
-IS
 ISS
-IT
 IT-bedrift
 IT-industri
 IT-løsning
@@ -2600,7 +2506,6 @@ Ildlandet
 Illinois
 Ilseng
 Imatra
-In
 Inari
 Inc
 Inderøy
@@ -2658,7 +2563,6 @@ Interrail
 Interrail-billett
 Investa
 Iowa
-Ir
 Irak
 Iran
 Irene
@@ -2695,8 +2599,6 @@ Iverson
 Iverssen
 Iversson
 Izmir
-J
-J.
 Jacob
 Jacobsen
 Jacobson
@@ -2764,7 +2666,6 @@ Jesus-skikkelse
 Jesusbilde
 Jevnaker
 Jidda
-Jo
 Joan
 Job
 Joensuu
@@ -2852,9 +2753,7 @@ Jørn
 Jørpeland
 Jørstad
 Jørstadmoen
-K
 K-punkt
-K.
 K/S
 KFUK
 KFUK-speider
@@ -2872,17 +2771,14 @@ KGB-offiser
 KGB-sjef
 KGB-styrke
 KGB-talsmann
-KM
 KNA-medlem
 KOLS
 KRF
 KRIPOS
-KS
 KSSE
 KSSE-land
 KSSE-møte
 KUD
-KZ
 KZ-leir
 Kaare
 Kaaresen
@@ -3113,7 +3009,6 @@ Korsfjorden
 Korshamn
 Korsnes
 Kosovo
-Kr
 KrF
 Kragerø
 Kreditkassen
@@ -3202,12 +3097,8 @@ København
 Køfri
 Køfri-brikke
 Køfri-system
-L
-L.
 LCD-skjerm
 LCD-teknologi
-LK
-LO
 LO-advokat
 LO-forbund
 LO-kongress
@@ -3216,14 +3107,12 @@ LO-ledelse
 LO-leder
 LO-topp
 LOOC
-LP
 LP-innspilling
 LP-plate
 LP-utgivelse
 LSD
 LSD-rus
 LSK
-La
 Labour
 Labour-regjering
 Labrador
@@ -3324,9 +3213,7 @@ Lesjaskog
 Lesjaverk
 Lesotho
 Levanger
-Lg
 Lhasa
-Li
 Lian
 Libanon
 Liberia
@@ -3397,9 +3284,7 @@ Lothe
 Louis
 Louise
 Louisiana
-Lr
 Lt.
-Lu
 Lucia
 Lucifer
 Ludvig
@@ -3456,23 +3341,14 @@ Løvenstad
 Løvik
 Løvstad
 Lübeck
-M
-M.
-MB
-MC
 MC-budeie
 MC-klubb
 MHz
 MIG-jager
 MMI
 MMI-måling
-MP
-MS
 MS-pasient
-MT
 MTB
-MV
-MW
 Macao
 Machiavelli
 Machines
@@ -3638,7 +3514,6 @@ Metusalem
 Mexico
 Mexicogolfen
 Meyer
-Mg
 Mia
 Miami
 Michael
@@ -3706,8 +3581,6 @@ Mjøsa
 Mjøsbygdene
 Mlle
 Mme
-Mn
-Mo
 Moberg
 Mocambique
 Modalen
@@ -3774,7 +3647,6 @@ Mount
 Mountains
 Mr.
 Mrs.
-Mt
 Muhammed
 Mujahedin
 Munch
@@ -3806,8 +3678,6 @@ Mørekysten
 Møsvatn
 Müller
 München
-N
-N.
 NAF
 NASA
 NATO
@@ -3822,23 +3692,18 @@ NIH
 NIVA
 NKL
 NKP
-NM
-NN
 NN-fange
 NOK
 NORAD
 NORTRA
 NRF
 NRK
-NS
 NS-medlem
 NSB
-NT
 NTB
 NTH
 NTNF
 NVE
-Na
 Nagasaki
 Nagoya
 Nairobi
@@ -3869,8 +3734,6 @@ Nato-land
 Nattland
 Naustdal
 Nazi-Tyskland
-Nb
-Ne
 Nebraska
 Nedenes
 Nederland
@@ -3898,8 +3761,6 @@ Nevlunghamn
 New
 Newcastle
 Newfoundland
-Ng
-Ni
 Niagara
 Nicaragua
 Nice
@@ -3934,7 +3795,6 @@ Nina
 Nissan
 Nissedal
 Nittedal
-No
 Nokia
 Nome
 Nora
@@ -4008,7 +3868,6 @@ Nova
 Novaja
 Novgorod
 Novi
-Np
 Numedal
 Ny-Zealand
 Nybergsund
@@ -4020,8 +3879,6 @@ Nærøy
 Næss
 Nøtterøy
 Nürnberg
-O
-O.
 OAS
 OAU
 OBOS
@@ -4035,7 +3892,6 @@ OECD-rapport
 OECD-studie
 OECD-tall
 OECD-økonom
-OL
 OL-anlegg
 OL-arena
 OL-arrangement
@@ -4124,7 +3980,6 @@ OL-vert
 OL-vinner
 OL-år
 OL-øvelse
-OP
 OPEC
 OPEC-land
 OPEC-medlem
@@ -4148,7 +4003,6 @@ Odland
 Odvar
 Odysseus
 Odyssevs
-Oe
 Ofoten
 Ofotfjorden
 Ofstad
@@ -4231,7 +4085,6 @@ Orkla-Borregaard
 Orkladal
 Orknøyene
 Orleans
-Os
 Osaka
 Oscar
 Oscarsborg
@@ -4282,32 +4135,24 @@ Oveson
 Ovessen
 Ovesson
 Oxford
-P
-P.
-PC
 PC-nettverk
 PC-produsent
 PC-program
 PC-utstyr
 PCB
-PD
 PD-setting
 PLO
 PLO-leder
 PLO-representant
-PM
 PP-tjeneste
-PR
 PR-agent
 PR-gimmick
 PR-gimmik
 PR-jippo
 PR-kåthet
 PR-mann
-PS
 PVC
 PVRK
-Pa
 Pakistan
 Palermo
 Palestina
@@ -4339,9 +4184,7 @@ Paulssen
 Paulsson
 Paulus
 Paz
-Pb
 Pb.
-Pd
 Peder
 Pedersen
 Pederson
@@ -4379,7 +4222,6 @@ Petterson
 Petterssen
 Pettersson
 Peugeot
-Pf
 Pfg
 Philadelphia
 Philips
@@ -4396,8 +4238,6 @@ Plains
 Plata
 Plateau
 Plovdiv
-Pm
-Po
 Poisson-tall
 Polen
 Polynesia
@@ -4421,7 +4261,6 @@ Portugal
 Porvoo
 Potsdam
 Poughkeepsie
-Pr
 Praha
 Praha-vår
 Pravda
@@ -4431,8 +4270,6 @@ Prix
 Prod
 Provence
 Prøysen
-Pt
-Pu
 Puerto
 Puttgarden
 Pygmalion
@@ -4441,24 +4278,18 @@ Pyreneene
 Pål
 Påske-Oslo
 Påskeøya
-Q
 Q-verdi
-Q.
 Qatar
 Quayle
 Quebec
 Queensland
 Quito
-R
-R.
 RBK
 RIMI
-RV
 RV-politiker
 RV-representant
 RVO
 RVer
-Ra
 Radiumhospitalet
 Radøy
 Rafnes
@@ -4489,8 +4320,6 @@ Rauland
 Rauma
 Ravndal
 Raymond
-Rb
-Re
 Reading
 Reagan
 Recife
@@ -4522,7 +4351,6 @@ René
 Reval
 Revsnes
 Reykjavik
-Rh
 Rh-faktor
 Rheinland-Pfalz
 Rhinen
@@ -4564,7 +4392,6 @@ Rita
 River
 Riyadh
 Rjukan
-Rn
 Roald
 Roaldsen
 Roaldson
@@ -4633,7 +4460,6 @@ Rouge
 Rousseau
 Rovaniemi
 Roy
-Ru
 Rubens
 Ruby
 Rudi
@@ -4684,21 +4510,17 @@ Røste
 Røyken
 Røyrvik
 Rügen
-S
 S-klassen
 S-marked
-S.
 SALT
 SAS
 SEATO
 SEK
 SFT
-SI
 SI-system
 SINTEF
 SL-kort
 SL-trafikant
-SM
 SMS
 SMS-fradrag
 SMS-konto
@@ -4709,15 +4531,12 @@ SP-leder
 SP-politiker
 SP-representant
 SPD
-SS
 SS-offiser
 STI
 SUS
-SV
 SV-leder
 SV-representant
 SVer
-Sa
 Saab
 Saana
 Saarbrücken
@@ -4803,8 +4622,6 @@ Saupstad
 Sauvignon
 Sauvignon-drue
 Savannah
-Sb
-Sc
 Scania
 Scanvest
 Schau
@@ -4820,7 +4637,6 @@ Scotia
 Scott
 Scud
 Scudrakett
-Se
 Seat
 Seato
 Seattle
@@ -4867,7 +4683,6 @@ Severinsson
 Sevilla
 Seychellene
 Sfo
-Sg
 Shakespeare
 Shanghai
 Sheila
@@ -4877,7 +4692,6 @@ Sheraton-hotell
 Sherlock
 Shetland
 Shetlandsbankene
-Si
 Siam
 Siambukta
 Sibir
@@ -5018,7 +4832,6 @@ Smestad
 Smith
 Småland
 Smøla
-Sn
 Snillfjord
 Snorre
 Snåsa
@@ -5063,7 +4876,6 @@ South
 Southampton
 Sovjetrepublikk
 Sovjetunionen
-Sp
 Spain
 Spangereid
 Spania
@@ -5076,7 +4888,6 @@ Spitsbergen
 Spjelkavik
 Springs
 Spydeberg
-Sr
 Sri
 St.
 Stabburet
@@ -5208,7 +5019,6 @@ Surnadal
 Susanne
 Sussex
 Suzuki
-Sv
 Svalbard
 Svanesjøen
 Svanhild
@@ -5353,7 +5163,6 @@ Sørøya
 Sørøysund
 Søvik
 Søyland
-T
 T-bane
 T-banenedgang
 T-banenett
@@ -5370,17 +5179,13 @@ T-jern
 T-kryss
 T-skjorte
 T-stål
-T.
 TASS
 TBK
 TCDD
 TG-grammatikk
 TIR
 TNT
-TS
-TT
 TT-kjøring
-TV
 TV-aften
 TV-aksjon
 TV-alder
@@ -5509,9 +5314,7 @@ TV2-konsesjon
 TV3
 TV4
 TVNorge
-TW
 TWh
-Ta
 Tafjord
 Tahiti
 Taipei
@@ -5536,11 +5339,8 @@ Tatra
 Tau
 Taube
 Taunus
-Tb
 Tblisi
-Tc
 Tchad
-Te
 Teheran
 Tejo
 Tekn
@@ -5562,7 +5362,6 @@ Terjessen
 Terjesson
 Tertnes
 Texas
-Th
 Thailand
 Thalia
 Thames
@@ -5651,8 +5450,6 @@ Tjodalyng
 Tjølling
 Tjøme
 Tjøtta
-Tl
-Tm
 Tobago
 Tobias
 Tobiasen
@@ -5853,15 +5650,11 @@ Tønneson
 Tønnessen
 Tønnesson
 Tønsberg
-U
 U-dal
 U-jern
 U-landslag
 U-stål
 U-sving
-U.
-UB
-UD
 UD-folk
 UD-talsmann
 UEFA
@@ -5873,9 +5666,7 @@ UEFA-cupspill
 UEFA-cuptriumf
 UEFA-finale
 UFO
-UH
 UHF
-UK
 UNESCO
 UNI
 UNICEF
@@ -5884,7 +5675,6 @@ UNIFIL-soldat
 UNIFIL-styrke
 UNIFIL-tjeneste
 UNIX
-UP
 UP-betjent
 UP-patrulje
 UP-sjef
@@ -5940,7 +5730,6 @@ Utsira
 Utsjoki
 Utstein
 Uvdal
-V
 V-Tyskland
 V-bombe
 V-cup
@@ -5951,15 +5740,10 @@ V-genser
 V-rekord
 V-tegn
 V-utringning
-V.
-V5
-V6
 V6-kupong
 V6-løp
 V6-rekke
-VA
 VCM
-VG
 VG-journalist
 VHF
 VHF-radio
@@ -5967,7 +5751,6 @@ VHS
 VIF
 VIFer
 VIP
-VM
 VM-arena
 VM-arrangement
 VM-arrangør
@@ -6201,9 +5984,6 @@ Væren
 Værksted
 Værøy
 Vøringsfossen
-W
-W.
-WC
 Waage
 Wahl
 Waitz-løp
@@ -6223,7 +6003,6 @@ Watergate
 Waterloo
 Wathne
 Watne
-Wb
 Weekend-Aftenposten
 Welhaven
 Wembley
@@ -6232,7 +6011,6 @@ West
 Westby
 Westfalen
 Westminster
-Wh
 White
 Wibeche
 Wibecke
@@ -6271,23 +6049,16 @@ WordPerfect
 Worth
 Wroclaw
 Wyoming
-X
 X-kromosom
-X.
-Xe
 Xerxes
-Y
 Y-kromosom
-Y.
 YAP
-YS
 YS-krav
 YS-leder
 YS-medlem
 Yale
 Yamaha
 Yangtzekiang
-Yb
 Yellowstone
 Yemen
 Yngvar
@@ -6301,8 +6072,6 @@ Yorkshire
 Yorktown
 Ystad
 Yukon
-Z
-Z.
 Zagreb
 Zaire
 Zakopane
@@ -6313,14 +6082,10 @@ Zealand
 Zeus
 Zevs
 Zimbabwe
-Zn
 Zodiak
 Zodiakus
 Zoetermeer
-Zr
 Zürich
-a
-a-
 a-bombe
 a-egg
 a-endelse
@@ -6334,7 +6099,6 @@ a-mollkonsert
 a-mål
 a-nasjon
 a-våpen
-ab
 ab-kjøp
 ab-kontrakt
 abbed
@@ -7258,7 +7022,6 @@ akvarium
 akvatint
 akvatintetsning
 akvedukt
-al
 alabast
 alabastkrukke
 alali
@@ -7794,7 +7557,6 @@ alvorsord
 alvorsprat
 alvorsstund
 alvorstid
-am
 amalgam
 amalgamasjon
 amalgamering
@@ -8873,7 +8635,6 @@ anvising
 anvisning
 anvisningslinje
 aorta
-ap
 apal
 apanasje
 apartheid
@@ -9006,7 +8767,6 @@ aprilvær
 apropos
 apsis
 aquavit
-ar
 ara
 araber
 araberhest
@@ -9755,7 +9515,6 @@ arving
 arvtager
 arvtaker
 arytmi
-as
 asal
 asalbær
 asalea
@@ -10110,7 +9869,6 @@ attrå
 attåtarbeid
 attåtnæring
 atypi
-au
 aubergine
 audi
 audiens
@@ -10272,7 +10030,6 @@ autoritærhet
 autostart
 autostrada
 autovern
-av
 av-knapp
 av-middel
 av-og-på-knapp
@@ -11332,7 +11089,6 @@ avvisningsvedtak
 avvæpning
 ayatolla
 azteker
-b
 b-film
 b-kvalitet
 b-lag
@@ -14223,7 +13979,6 @@ beåndelse
 beånding
 beæring
 bfr
-bh
 bhutaner
 biafraner
 bial
@@ -15817,7 +15572,6 @@ bløytleggelse
 bløytlegging
 bløytlegning
 bnr.
-bo
 boa
 boalternativ
 boardingkort
@@ -17747,7 +17501,6 @@ brøytesesong
 brøytestasjon
 brøyting
 bto.
-bu
 bubehandling
 bubestyrer
 bubil
@@ -18259,7 +18012,6 @@ butting
 button
 buttskjøt
 buttsveis
-by
 by-sovjet
 byadministrasjon
 byantikvar
@@ -18792,7 +18544,6 @@ båtulykke
 båtutstilling
 båtutstyr
 båtvett
-bæ
 bær
 bæraktighet
 bærbusk
@@ -18874,7 +18625,6 @@ bæsj
 bæsjing
 bætsjler
 bætsjlergrad
-bø
 bøddel
 bøddelgjerning
 bøddeløks
@@ -19056,7 +18806,6 @@ bøyningsform
 bøyningsmønster
 bøyningsspråk
 bøyningsverk
-c
 c-moll
 c-nøkkel
 cabincruiser
@@ -19167,7 +18916,6 @@ caterpillar
 catgut
 catwalk
 ccm
-cd
 cd-plate
 cd-rom
 cd-speller
@@ -19246,7 +18994,6 @@ cess
 cess-moll
 cesur
 ceyloner
-cg
 cha-cha-cha
 chablis
 chaconne
@@ -19346,7 +19093,6 @@ citrat
 citroën
 city
 cityshorts
-cl
 clairobscur
 clairvoyance
 clearing
@@ -19357,7 +19103,6 @@ clou
 clutch
 clutching
 clutchpedal
-cm
 co.
 cocker
 cockney
@@ -19437,7 +19182,6 @@ cowboyhatt
 cowboystøvel
 cox
 coyote
-cp
 crack
 crawl
 crazyfilm
@@ -19509,7 +19253,6 @@ curler
 curling
 curling-VM
 curriculum
-cv
 cyan
 cyanamid
 cyanid
@@ -19531,7 +19274,6 @@ cæsarisme
 cédille
 cøliaker
 cøliaki
-d
 d-moll
 d.d.
 d.e.
@@ -19539,8 +19281,6 @@ d.m.
 d.s.
 d.y.
 d.å.
-dB
-da
 daa
 dabbe
 dabbing
@@ -20082,8 +19822,6 @@ dauvnesle
 davidsstjerne
 davidstjerne
 davit
-db
-de
 deadline
 dean
 debatt
@@ -20749,7 +20487,6 @@ devon
 devonformasjon
 devonperiode
 devonsystem
-dg
 dia
 diabetes
 diabetespasient
@@ -21353,9 +21090,6 @@ djuptrykk
 djupvannsfisk
 djupvassfisk
 djupål
-dl
-dm
-do
 dobb
 dobbe
 dobbelt-LP
@@ -22397,7 +22131,6 @@ dvergspette
 dvergstjerne
 dvergvekst
 dx-ing
-dy
 dyade
 dybde
 dybdekart
@@ -22593,7 +22326,6 @@ dystopi
 dytt
 dyttestry
 dytting
-då
 dåd
 dådskraft
 dådyr
@@ -22823,7 +22555,6 @@ døyving
 düsseldorfer
 düsseldorferskole
 düsseldorfskole
-e
 e-brev
 e-mail
 e-moll
@@ -22832,7 +22563,6 @@ e-post
 e-postadresse
 e-verk
 e.f.
-eV
 eagle
 eau
 ebbe
@@ -22843,7 +22573,6 @@ ecstasy
 ecstasytablett
 ecu
 ecuadorianer
-ed
 edamer
 edamerost
 edb
@@ -23663,7 +23392,6 @@ ekviperingsforretning
 ekvivalens
 ekvivalent
 ekvivalentvekt
-el
 elan
 eland
 elartikkel
@@ -24135,7 +23863,6 @@ emulgerbarhet
 emulgering
 emulgeringskapasitet
 emulsjon
-en
 enakter
 enblocavskriving
 enblocavskrivning
@@ -24542,7 +24269,6 @@ enøre
 enøring
 eocen
 eolsharpe
-ep
 ep-plate
 epidemi
 epidemiavdeling
@@ -25275,11 +25001,9 @@ evolusjon
 evolusjonisme
 evolusjonist
 evolusjonsteori
-ex
 ex.
 examen
 eyeliner
-f
 f-moll
 f-nøkkel
 f.eks.
@@ -25288,7 +25012,6 @@ f.m.
 f.t.
 f.v.
 f.å.
-fa
 fabel
 fabeldyr
 fabelvesen
@@ -26220,7 +25943,6 @@ favorittstempel
 favør
 favørpris
 fax
-fe
 feal
 fealslag
 feavl
@@ -28294,7 +28016,6 @@ fjøsrøkt
 fjøsrøkter
 fjøsstell
 fjøstid
-fl
 fl.
 fla
 flabb
@@ -31708,7 +31429,6 @@ fottøy
 foxterrier
 foxtrot
 foyer
-fr
 fr.
 fra
 frabeing
@@ -32966,7 +32686,6 @@ frøspredning
 frøtre
 frøvare
 ftalat
-fu
 fuga
 fuge
 fugearbeid
@@ -33780,10 +33499,8 @@ føyking
 føys
 føysing
 führer
-g
 g-moll
 g-nøkkel
-g.
 gabardin
 gabbro
 gaboner
@@ -34811,7 +34528,6 @@ geværskott
 geværskudd
 geværskytter
 geysir
-gg
 ghananer
 ghaneser
 ghetto
@@ -37975,10 +37691,8 @@ gørr
 gøy
 gøying
 gøys
-h
 h-bombe
 h-moll
-ha
 habanera
 habengut
 habilitasjon
@@ -40447,8 +40161,6 @@ hevntanke
 hevntrussel
 hevntørst
 hevstang
-hg
-hi
 hi-fi
 hiatus
 hibiskus
@@ -41099,8 +40811,6 @@ hjørnestolpe
 hjørnetann
 hjørnetomt
 hjørnetårn
-hk
-hl
 hobby
 hobbybasis
 hobbybok
@@ -42131,7 +41841,6 @@ hovslag
 hovslager
 hovtang
 hryvnja
-hu
 hubro
 hud
 hudavdeling
@@ -42977,7 +42686,6 @@ hvitvinsflaske
 hvitvinsglass
 hvitvinssaus
 hvitøye
-hy
 hyasint
 hybel
 hybelboer
@@ -43234,7 +42942,6 @@ hyttevegg
 hyttevindu
 hytteåpning
 hytting
-hå
 hå.
 håball
 håbrann
@@ -43538,7 +43245,6 @@ hærstyrke
 hærtaking
 hæruniform
 hærverk
-hø
 høflighet
 høflighetsfrase
 høflighetsvisitt
@@ -44064,7 +43770,6 @@ høyverdighet
 høyvisk
 høyvogn
 høyår
-i
 i-form
 i-land
 i-mål
@@ -44083,7 +43788,6 @@ ibis
 iblanding
 ibo
 icing
-id
 id-kort
 id-papir
 ide
@@ -44419,7 +44123,6 @@ ikte
 iktus
 iktyolog
 iktyologi
-il
 ilandbringelse
 ilandbringing
 ilandføring
@@ -46879,7 +46582,6 @@ ionium
 ionometer
 ionosfære
 iota
-ir
 iraker
 iraner
 iransk
@@ -46922,7 +46624,6 @@ irritering
 irriterthet
 irsk
 irskhet
-is
 isand
 isavsmelting
 isbader
@@ -47190,7 +46891,6 @@ isøde
 isøks
 isørken
 isøvelse
-it
 it-næring
 it-revolusjon
 itakisme
@@ -47210,8 +46910,6 @@ iveving
 ivorianer
 ivrighet
 ivring
-j
-ja
 jabb
 jabbing
 jabevegelse
@@ -47737,7 +47435,6 @@ jitterbug
 jiu-jitsu
 jive
 jnr.
-jo
 jobb
 jobber
 jobberi
@@ -48591,14 +48288,9 @@ jødeutryddelse
 jødinne
 jøkel
 jøssing
-k
 k-soldat
 k-verdi
-kB
 kHz
-kJ
-kV
-kW
 kWh
 kabal
 kabaret
@@ -50257,7 +49949,6 @@ kavlebro
 kavlebru
 kavring
 kayennepepper
-kb
 kcal
 kebab
 kediv
@@ -50358,7 +50049,6 @@ ketonverdi
 ketose
 ketsjup
 keyboard
-kg
 kgl.res.
 khaki
 khan
@@ -52540,7 +52230,6 @@ kløyver
 kløyving
 kløyvning
 kløyvsag
-km
 km-avgift
 km-sone
 km-stand
@@ -55592,9 +55281,7 @@ kovarians
 kovbakke
 kove
 kovning
-kp
 kpm
-kr
 kra
 kraal
 krabat
@@ -56844,9 +56531,7 @@ krøttersti
 krøtterundergang
 krøtterveg
 krøttervei
-kt
 kto.
-ku
 kuband
 kubaner
 kubansk
@@ -58411,7 +58096,6 @@ kåsør
 kåte
 kåthet
 kåting
-kø
 køavviklingsplan
 københavner
 kødannelse
@@ -58445,9 +58129,7 @@ køyeseng
 køyestrekk
 køying
 køystrekk
-l
 l'hombre
-la
 la-skure-mentalitet
 lab
 lab.
@@ -59760,7 +59442,6 @@ lawrencium
 layout
 layouter
 layoutmedarbeider
-le
 leamus
 leaser
 leasing
@@ -60666,8 +60347,6 @@ levningsmaterial
 levningsmateriale
 levring
 lex
-lg
-li
 liaison
 liaisonoffiser
 lian
@@ -61395,10 +61074,7 @@ ljåorv
 ljåskaft
 ljåslått
 ljøske
-lm
-ln
 lnr.
-lo
 lobb
 lobbing
 lobby
@@ -61889,7 +61565,6 @@ lovutkast
 lovutvalg
 lovvedtak
 lovverk
-lp
 lp-plate
 lsd
 lsd-rus
@@ -62265,8 +61940,6 @@ lux
 luxembourger
 luxemburger
 luxmeter
-lx
-ly
 lybekker
 lyceum
 lycé
@@ -63332,18 +63005,11 @@ løytnant
 løytnantshjerte
 løyve
 løyving
-m
 m-l
-m.
 m.a.o.
 m.o.t.
 m.p.p.
 m/s
-m2
-m3
-mB
-mV
-mW
 mach
 machete
 machiavellisme
@@ -64958,7 +64624,6 @@ mayday
 maydayanrop
 maydaymelding
 mazda
-mb
 mbit
 mccarthyisme
 md.
@@ -66065,9 +65730,7 @@ metylalkohol
 metylen
 mexicaner
 mezzosopran
-mg
 mht.
-mi
 midd
 middag
 middagsavis
@@ -67195,13 +66858,10 @@ mjøsby
 mjøsbygd
 mjøsfiske
 mjøsis
-ml
 ml-bevegelse
 ml-er
-mm
 mnemoteknikk
 mno.
-mo
 moa
 moabitt
 moafugl
@@ -67973,7 +67633,6 @@ mousse
 movering
 mozzarella
 mrd.
-ms
 ms-pasient
 mtb
 mudd
@@ -68449,7 +68108,6 @@ muttern
 mutthet
 muzak
 mva.
-my
 myalgi
 myanmarer
 mycel
@@ -68746,7 +68404,6 @@ mædi
 mæle
 mæling
 mærd
-mø
 møbel
 møbelfabrikk
 møbelforretning
@@ -68874,9 +68531,7 @@ møye
 møying
 møysomhet
 møysommelighet
-n
 n-te-rot
-n.
 n.-rot
 n.br.
 nabb
@@ -69693,7 +69348,6 @@ nazisymbol
 nazitida
 nazitiden
 naziuniform
-ne
 neandertaler
 neandertalmenneske
 nebb
@@ -70223,7 +69877,6 @@ newton
 newyorker
 newzealender
 newzealending
-ng
 niauge
 nibbe
 nibeing
@@ -70724,7 +70377,6 @@ novise
 novisiat
 novitet
 nr.
-nu
 nubb
 nubbe
 nubbekjangs
@@ -70794,7 +70446,6 @@ nut
 nutria
 nuv
 nuve
-ny
 nyanlegg
 nyanse
 nyanseforskjell
@@ -71097,7 +70748,6 @@ nyårshelsing
 nyårshilsen
 nyårsny
 nyårsønske
-nå
 nåde
 nådegave
 nådeløshet
@@ -71514,7 +71164,6 @@ nøytron
 nøytronbombe
 nøytrum
 nøytrumsord
-o
 o-fag
 o-lag
 o-løp
@@ -71780,7 +71429,6 @@ oktobertall
 oktogon
 okular
 okulasjon
-ol
 olabil
 olabukse
 olagutt
@@ -72058,7 +71706,6 @@ olympiastadion
 olympiatropp
 olympiavinner
 olympier
-om
 omadressering
 omaner
 omarbeidelse
@@ -73345,7 +72992,6 @@ optometrist
 opulens
 opus
 opusnummer
-or
 orakel
 orakelsvar
 oralsex
@@ -73708,7 +73354,6 @@ ortoped
 ortopedi
 ortose
 orv
-os
 oscarkandidat
 oscarstatuett
 oscarutdeling
@@ -74356,16 +74001,13 @@ ozonlag
 ozonmåling
 ozonnedbryting
 ozonnedbrytning
-p
 p-hus
 p-kort
 p-pille
 p-pillebruk
 p-plass
 p-skilt
-p.
 p.p.m.
-pH
 pH-verdi
 pa.
 pace
@@ -75315,12 +74957,10 @@ pavekirke
 pavevalg
 paviljong
 paviljongsystem
-pc
 pc-nettverk
 pc-produsent
 pc-program
 pc-utstyr
-pd
 pd-setting
 peanøtt
 peanøttsmør
@@ -75935,7 +75575,6 @@ pharm.
 philol.
 philos.
 phon
-pi
 pianissimo
 pianist
 pianistinne
@@ -76706,7 +76345,6 @@ pløye
 pløyer
 pløying
 pløyning
-pm
 pneumatikk
 pneumokokk
 pneumoni
@@ -77427,7 +77065,6 @@ potteri
 potteskår
 pottøl
 powerplay
-pr
 pr.
 prae
 pragmatiker
@@ -78803,7 +78440,6 @@ prøvning
 prøysser
 prøysserdisiplin
 prøysserånd
-ps
 pseudobegivenhet
 pseudonym
 pseudotvilling
@@ -79163,7 +78799,6 @@ pytt
 pytt-i-panne
 pyttand
 pyttipanne
-på
 på-knapp
 påakting
 påanking
@@ -79402,7 +79037,6 @@ pønsking
 pøs
 pøsing
 pøsregn
-q
 qatarer
 quadragesima
 quadriceps
@@ -79421,8 +79055,6 @@ quislingregjering
 quislingstyre
 quiz
 quodlibet
-r
-ra
 rabagast
 rabalder
 rabaldermøte
@@ -79962,7 +79594,6 @@ ravneskrik
 ravnunge
 rayon
 razzia
-re
 reagens
 reagensglas
 reagensglass
@@ -81858,7 +81489,6 @@ rhinlending
 rhinskvin
 rhodesier
 rhodium
-ri
 ribb
 ribb-bein
 ribb-beinsbrott
@@ -82225,7 +81855,6 @@ rivningssak
 rivningstillatelse
 rivningsvedtak
 rivost
-ro
 ro-VM
 roadracing
 roadster
@@ -82960,7 +82589,6 @@ ruv
 ruve
 ruving
 rwander
-ry
 rybs
 rydde
 ryddeaksjon
@@ -83066,7 +82694,6 @@ rytterkorps
 rytterske
 ryttersport
 rytterstatue
-rå
 råband
 råbandsknute
 råbukk
@@ -83506,8 +83133,6 @@ røysert
 røysing
 røyskatt
 røyting
-s
-s.
 s.br.
 s.u.
 s.å.
@@ -86502,7 +86127,6 @@ shrapnel
 shunt
 shuntdynamo
 shunting
-si
 sial
 siameser
 sibirer
@@ -97376,7 +97000,6 @@ støyting
 støytpute
 støyttann
 støytvåpen
-su
 subaru
 subb
 subbe
@@ -98720,7 +98343,6 @@ syvtid
 syvåring
 syvårsalder
 syvårsperiode
-så
 såerle
 såfrø
 sågidder
@@ -99185,7 +98807,6 @@ søylehelgen
 søylekrystall
 søylerekke
 søylerekkverk
-t
 t-shirt
 t.d.
 t.forskj.fra
@@ -99954,7 +99575,6 @@ taxisjåfør
 tbc
 tbc-vaksine
 tchader
-te
 teak
 team
 teamarbeid
@@ -101059,7 +100679,6 @@ thriller
 thrillerforfatter
 thrillerserie
 thulium
-ti
 tiara
 tibetaner
 tibetansk
@@ -102234,7 +101853,6 @@ tjæresåpe
 tjæring
 tjørnblom
 tlf.
-to
 toakter
 toalett
 toalettartikkel
@@ -104742,7 +104360,6 @@ trøtting
 trøye
 trøyt
 trøyting
-ts
 tsar
 tsardømme
 tsarevitsj
@@ -104764,7 +104381,6 @@ tsjetsjener
 tsjuvasj
 tsjuvasjer
 tsunami
-tu
 tuareg
 tub
 tuba
@@ -105163,7 +104779,6 @@ tuttifrutti
 tutting
 tutu
 tuvaler
-tv
 tv-aften
 tv-aksjon
 tv-alder
@@ -105631,7 +105246,6 @@ tyvskytter
 tyvstart
 tyvstarting
 tyvtitting
-tå
 tåball
 tåballe
 tåbinding
@@ -105893,7 +105507,6 @@ tøysing
 tøysko
 tøystykke
 tøyte
-u
 u-hjelp
 u-hjelper
 u-hjelpsarbeid
@@ -106249,7 +105862,6 @@ ukvemsord
 ukvinnelighet
 ukyndighet
 ukyskhet
-ul
 ulag
 ulage
 ulastelighet
@@ -107223,7 +106835,6 @@ upåtalthet
 upåvirkelighet
 upåvirkethet
 upåviselighet
-ur
 uradel
 uran
 uranbekerts
@@ -109130,8 +108741,6 @@ uvørenhet
 uår
 uærbødighet
 uærlighet
-v
-v.
 v.g.s.
 vable
 vad
@@ -110643,7 +110252,6 @@ vattering
 vattersott
 vattlag
 vaudeville
-ve
 vebb
 vebbstoff
 vebbutstyr
@@ -113775,8 +113383,6 @@ vurderingsspørsmål
 vurderingssvikt
 vurderingssystem
 vurderingsutvalg
-vy
-vå
 våbønn
 våd
 våde
@@ -114017,7 +113623,6 @@ vørter
 vørterbrød
 vørterkake
 vørterøl
-w
 wagnerianer
 wagnerianisme
 wagneritt
@@ -114038,7 +113643,6 @@ watt-time
 wattime
 wattmeter
 watutsi
-wc
 weasel
 web
 webbstoff
@@ -114112,7 +113716,6 @@ worcestersaus
 world
 worldcup
 worldcuprenn
-x
 x-akse
 x-krok
 x-kromosom
@@ -114134,7 +113737,6 @@ xylofon
 xylofonist
 xylograf
 xylografi
-y
 y-akse
 y-kromosom
 yacht
@@ -114145,14 +113747,12 @@ yap
 yard
 yatzy
 yawl
-yd
 ydmykelse
 ydmykhet
 ydmyking
 yemenitt
 yen
 yeti
-yl
 yling
 ymsepost
 ymt
@@ -114218,7 +113818,6 @@ yppersteprestinne
 yppighet
 ypping
 ypsilon
-yr
 yreregn
 yrhet
 yring
@@ -114389,7 +113988,6 @@ ytterved
 yttervegg
 yttrium
 yüan
-z
 z-sno
 z-tvinn
 zairer
@@ -114443,11 +114041,8 @@ zuluorganisasjon
 zwinglianer
 zygote
 zymologi
-§
 Äland
 Ästersund
-Å
-Å.
 ÅSV
 Åbo
 Ådalen
@@ -114455,7 +114050,6 @@ zymologi
 Åfjord
 Åge
 Ågot
-Ål
 Åland
 Ålborg
 Ålesund
@@ -114469,16 +114063,11 @@ zymologi
 Årdal
 Årdalstangen
 Århus
-Ås
 Åsane
 Åse
 Åsegarden
 Åsnes
 Åss
-Æ
-Æ.
-Ø
-Ø.
 Ødegaard
 Ødegård
 Øen
@@ -114537,8 +114126,6 @@ zymologi
 Øystre
 Øyvin
 Øyvind
-à
-å
 åbit
 åger
 ågerkar
@@ -114546,7 +114133,6 @@ zymologi
 ågerpris
 ågrer
 ågring
-åk
 åker
 åkerbruk
 åkerbruker
@@ -114574,7 +114160,6 @@ zymologi
 åkerøeple
 åking
 åkle
-ål
 ålefamilie
 ålefaring
 ålefiske
@@ -114733,7 +114318,6 @@ zymologi
 åpningstur
 åpningsutstilling
 åpningsverk
-år
 årbok
 årbokforfatter
 årbuk
@@ -114889,7 +114473,6 @@ zymologi
 årveg
 årvei
 årvåkenhet
-ås
 åsatro
 åsatru
 åsetesrett
@@ -114910,7 +114493,6 @@ zymologi
 åstedsundersøkelse
 åsyn
 åsynje
-åt
 åtak
 åtal
 åte
@@ -114965,9 +114547,7 @@ zymologi
 åverk
 åvirke
 åvokster
-æ
 ægide
-ær
 æra
 ærbarhet
 ærbødighet
@@ -115042,7 +114622,6 @@ zymologi
 ætting
 ættledd
 æve
-ø
 øde
 ødegard
 ødegård
@@ -115068,7 +114647,6 @@ zymologi
 ødslighet
 ødsling
 øgle
-øk
 økenavn
 øking
 økning
@@ -115170,7 +114748,6 @@ zymologi
 økumen
 økumene
 økumenikk
-øl
 ølavgift
 ølbass
 ølbevilling
@@ -115283,7 +114860,6 @@ zymologi
 ønskevær
 ønsking
 ønskverdighet
-ør
 øre
 øre-nese-hals-avdeling
 øre-nese-hals-lege
@@ -115391,7 +114967,6 @@ zymologi
 ørske
 ørsted
 ørtug
-øs
 øse
 øsefat
 øsekar
@@ -115506,7 +115081,6 @@ zymologi
 øvingsundervisning
 øvrighet
 øvrighetsperson
-øy
 øybefolkning
 øyboer
 øybu
